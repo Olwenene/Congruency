@@ -1,0 +1,5 @@
+User's will be able to rin the code if they have the following packages available at their disposal.
+   - spacy >= 3.0, <4.0
+
+   to download you can type in your comand line : python -m spacy download en_core_web_md
+                                                :python -m spacy download en_core_web_sm
